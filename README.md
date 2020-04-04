@@ -15,7 +15,7 @@ Now that you have an overview of the project plan, let's set up a Mapbox account
 
 ## Objectives
 
-#### The goals of this challenge are for you to:
+#### The goals of this challenge:
 
 #### To illustrate the severity of the earthquakes in relation to the tectonic plates
 
